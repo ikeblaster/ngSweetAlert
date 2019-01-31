@@ -1,3 +1,10 @@
+## 1.1.3-bugfix
+
+## Bug fixes
+
+  - Overrides were merging into default SweetAlertConfig (introduced in e39ce7587c116e93f974f95dafbe94bea19c9b21)
+  
+  
 ## 1.1.1
 
 ## Features
